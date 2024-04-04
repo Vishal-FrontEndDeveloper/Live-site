@@ -1,0 +1,243 @@
+.navbar2{
+    img{
+        height: 130px;
+        margin-top: -52px;
+        margin-left: -5px;
+        padding-bottom: -20px;
+        
+    }
+    display: flex;
+    gap:10px;
+    margin-top: 20px;
+    padding-bottom: -90px;
+    a{
+        text-decoration: none;
+        color: black;
+        font-size: 16px;
+        margin-left:2px;
+        padding-bottom: -90px;
+        
+}
+}
+.Partt{
+    display: flex;
+
+    img{
+        height: 15px;
+        margin-top: -8px;  
+        gap: 20px;
+        padding-bottom: -90px;   
+    }
+    a{
+        font-size: 16px;
+        text-decoration: none;
+        color: black;
+        padding-bottom: -90px;
+    }
+    margin-left: 190px;
+    gap:20px;
+    text-align: right;
+    margin-top: 22px;
+    padding-bottom: -90px;
+   
+}
+.nav12{
+    display: flex;
+    padding-bottom: -90px;
+    ;
+   
+}
+
+.text1{
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+.container-fluid A{
+    text-align: center;
+    
+}
+.A{
+    margin-top: 30px;
+    font-weight: bold;
+}
+.B{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.B .w{
+    border: 1px solid none ;
+    height: 610px;
+    width: 40%;
+    border-radius: 15px;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/in/home/BigTile_684x6847.jpg?$684_684_JPG$");
+    background-position: center;
+    padding-top: 500px;
+    padding-left:150px;
+    font-size:20px;
+    color: white;
+    margin-left: 30px;
+}
+.B .w:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.B .k{
+    border: 1px solid none ;
+    height: 300px;
+    width: 25%;
+    border-radius: 15px;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/in/home/19492_A-series_LC_Small-tile330x330_01.jpg?$330_330_JPG$");
+    background-position: center;
+    padding-top: px;
+    padding-left:px;
+    font-size:20px;
+    color: black;
+    margin-left: 20px;
+}
+.B .k:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.B .y{
+    border: 1px solid none ;
+    height: 300px;
+    width: 25%;
+    border-radius: 15px;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/in/home/Holi_330x330-2.jpg?$330_330_JPG$");
+    background-position: center;
+    padding-top: px;
+    padding-left:px;
+    font-size:20px;
+    color: black;
+    margin-left: 20px;
+}
+.B .y:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.B .t{
+    border: 1px solid none ;
+    height: 300px;
+    width: 25%;
+    border-radius: 15px;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/in/home/0814/Small-Tile_330x330-Double-door.jpg?$330_330_JPG$");
+    background-position: center;
+    padding-top: px;
+    padding-left:px;
+    font-size:20px;
+    color: black;
+    margin-left: 10px;
+    margin-left: 946px;
+    margin-top: -300px;
+}
+.B .t:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(112, 72, 72, 0.22) 0px 10px 10px;
+}
+.B .p{
+    border: 1px solid none ;
+    height: 300px;
+    width: 25%;
+    border-radius: 15px;
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/in/home/Small_Tile_330x330_UHD_4K_CUE.jpg?$330_330_JPG$");
+    background-position: center;
+    padding-top: px;
+    padding-left:px;
+    font-size:20px;
+    color: black;
+    margin-left: 10px;
+    margin-left: 595px;
+    margin-top: -300px;
+}
+.B .p:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.C{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.D{
+    text-align: center;
+    height: 800px;
+    background-image: url("https://www.telstra.com.au/content/dam/tcom/library/tex-exchange/samsung-galaxy-s24-telstra-exchange.png");
+    background-position: center;
+    font-size: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.tv-audio{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+   
+}
+.E1{
+    background-image: url("https://fundamental.in/wp-content/uploads/2022/09/QLEDTVV.png");
+    height: 700px;
+    background-position:center;
+}
+.qw{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.aw{
+    padding-top: 450px;
+    margin-left: 550px;
+    font-weight: 600;
+    font-size: 45px;
+    color: black;
+}
+.ww{
+    margin-left:650px ;
+    button{
+        border-radius: 15px;
+        padding: 15px;
+        font-weight: bold;
+        background-color: black;
+        color: white;
+    }
+    font-size: 15px;
+    button:hover{
+        background-color: grey;
+        color: white;
+    }
+    
+   
+}
+.hero{
+    text-align: center;
+}
+.batman{
+    width:50%;
+    margin-left: 350px;
+    button{
+     color: black;
+     border-color: black;
+    }
+    button:hover{
+        background-color:grey;
+        border-color: black;
+    }
+}
+.iron-man{
+    text-align: center;
+button{
+  border-radius: 15px;
+  padding: 0px 15px 0 15px;
+  margin-top: 5px;
+  background-color: transparent;
+  border:1px solid
+}
+}
+.data{
+    margin-top: 10px;
+    
+    p{
+        width: 70%;
+        margin-left:123px;
+    }
+    
+    
+}
